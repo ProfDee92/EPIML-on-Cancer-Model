@@ -11,3 +11,9 @@ The results reveal disparities in accuracy, with Logistic Regression achieving t
 In general, Python consistently yields higher accuracy across all algorithms when compared to Knime. 
 These findings underscore an impact of the platform selection on machine learning model performance, emphasizing the need for thoughtful consideration when choosing a platform for predictive models’ development.
 Such a decision bears significant implications for model efficacy and, ultimately, patient outcomes in the healthcare industry.
+
+
+# Methodlogy
+The flowchart below represents the methodology followed in this project.
+
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ec73170f-ea60-4ad2-b824-636d97909488)
