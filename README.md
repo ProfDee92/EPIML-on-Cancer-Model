@@ -1,16 +1,5 @@
 # Cancer-Investigating the Impact of the Implementation Platform on Machine Learning Models
-In the context of global cancer prevalence and the imperative need to improve diagnostic efficiency, this study addresses a critical question: does the choice of development platform for machine learning models impact their performance in cancer diagnosis? 
-With cancer, particularly breast cancer, representing a significant global health concern, delays in diagnosis have been identified as a major obstacle to reducing morbidity. 
-Scientists have turned to machine learning techniques to tackle this challenge to expedite diagnosis processes.
-Although previous research has shown promising results in developing predictive models for faster cancer diagnosis, discrepancies in outcomes have emerged, even when employing the same dataset.
-However, the underlying factors contributing to these variations remain unexplored. Therefore, this investigation seeks to shed light on whether inherent platform features influence the performance of 
-machine learning algorithms and whether healthcare professionals should be meticulous in their choice of implementation platform.
-This study utilizes the publicly available WDBC dataset from the UCI data repository to train four machine learning algorithms (Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Trees) on two distinct platforms: Python SciKit-Learn and Knime Analytics. 
-The algorithms' performance is rigorously assessed and compared, with both platforms operating under their default configurations. 
-The results reveal disparities in accuracy, with Logistic Regression achieving the highest accuracy of 92.11% in Knime, while Gradient Boosted Trees outperforms the others with an accuracy of 97.37% in Python. 
-In general, Python consistently yields higher accuracy across all algorithms when compared to Knime. 
-These findings underscore the impact of platform selection on machine learning model performance, emphasizing the need for thoughtful consideration when choosing a platform for predictive models’ development.
-Such a decision bears significant implications for model efficacy and, ultimately, patient outcomes in the healthcare industry.
+This study investigated the impact of platform choice on the performance of machine learning models for cancer diagnosis. With cancer being a global threat, timely diagnosis is crucial, and delays have been identified as a bottleneck. Researchers have explored the development of hypothetical models using machine learning techniques to reduce diagnosis time. However, varying results have been observed when using the same dataset, prompting an examination of whether the choice of the implementation platform affects model performance. The study employs the publicly available WDBC dataset to train four algorithms—Logistic Regression (LR), Decision Tree (DT), Random Forest (RF), and Gradient Boosted Trees (GB) on two platforms, Python SciKit-Learn, and Knime Analytics. Results revealed variations in algorithm performance, with higher accuracy generally observed in Python where GB achieved the highest accuracy at 97.37% compared to Knime where LR achieved the highest accuracy at 92.11%. The findings underscore the significance of platform selection in implementing machine learning models, emphasizing its potential impact on model efficacy and, ultimately, patient outcomes.
 
 ## Dataset Source
 Link to the UCI Wisconsin Breast Cancer Dataset (Dataset):
