@@ -1,4 +1,4 @@
-# Cancer-(3IPMLM) Investigating the Impact of the Implementation Platform on Machine Learning Models)
+# Cancer-Investigating the Impact of the Implementation Platform on Machine Learning Models
 In the context of global cancer prevalence and the imperative need to improve diagnostic efficiency, this study addresses a critical question: does the choice of development platform for machine learning models impact their performance in cancer diagnosis? 
 With cancer, particularly breast cancer, representing a significant global health concern, delays in diagnosis have been identified as a major obstacle to reducing morbidity. 
 Scientists have turned to machine learning techniques to tackle this challenge to expedite diagnosis processes.
