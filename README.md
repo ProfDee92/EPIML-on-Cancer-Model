@@ -30,13 +30,9 @@ Below are table of results showing the performances of the four algorithms when 
 
 ## Visualization of algorithms performances assessed
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/eefb18fc-61f8-4dfa-b506-cc4ed7c11dee)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/c289f523-c609-4141-87db-d80122fbd034)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/91124b11-dffa-4216-9260-92daacb65128)
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/f47f218c-494f-4107-a93a-7cd540e355ef)
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/e41b5b9e-8f5c-4cca-9f1c-5d9ff9bd2e39)
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/738ce710-1ce3-4619-95e0-a50fc38b4584)
 
 
 
