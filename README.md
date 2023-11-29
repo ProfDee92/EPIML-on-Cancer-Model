@@ -12,13 +12,12 @@ The flowchart below represents the methodology followed in this project.
 
 ## Results collected
 Below are table of results showing the performances of the four algorithms when implemented on both Knime and Scikit-Learn. 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/c0e7de46-dd86-4269-bdd9-d43cb73c4c3f)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/d0240cde-64c1-44d3-a16e-0bd9fe33c91a)
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/b5f2e543-0d8d-4397-bb2e-9b7d9b585801)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/2954078a-94a4-4fd1-89ea-782af3541282)
 
 
 ## Visualization of algorithms performances assessed
-
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/c289f523-c609-4141-87db-d80122fbd034)
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/91124b11-dffa-4216-9260-92daacb65128)
 
