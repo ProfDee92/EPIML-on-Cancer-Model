@@ -20,7 +20,8 @@ Scatterplot showing relationship between some of the features.
 ## Results collected
 Below are table of results showing the performances of the four algorithms when implemented on both Knime and Scikit-Learn. 
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/1c25f060-7c6d-4d2c-b14d-7f05050b4be8)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/a1c3aa15-e88f-405c-a847-cc76f602563a)
+
 
 
 
