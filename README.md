@@ -11,6 +11,9 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 The flowchart below represents the methodology followed in this project.
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ec73170f-ea60-4ad2-b824-636d97909488)
 
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/86d105f5-a56b-474d-8f95-79a48d7ed70e)
+
+
 
 ## Results collected
 Below are table of results showing the performances of the four algorithms when implemented on both Knime and Scikit-Learn. 
