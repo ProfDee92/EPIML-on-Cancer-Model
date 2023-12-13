@@ -10,7 +10,8 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 Dataset overview.
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ff057987-c1e1-4841-bbbb-2b9c67cd8687)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/9b34c204-7f40-4a11-b0ad-637dac8b1f72)
+
 
 
 ## Methodology
