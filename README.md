@@ -9,8 +9,9 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 ## Methodology
 The flowchart below represents the methodology followed in this project.
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ec73170f-ea60-4ad2-b824-636d97909488)
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/f9c11730-891e-4e9a-adf4-7ab84f8e8f10)
 
+Scatterplot of relationship between some of the features.
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/86d105f5-a56b-474d-8f95-79a48d7ed70e)
 
 
