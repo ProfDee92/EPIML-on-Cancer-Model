@@ -16,6 +16,8 @@ The flowchart below represents the methodology followed in this project.
 
 
 Scatterplot showing relationship between some of the features.
+
+
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/86d105f5-a56b-474d-8f95-79a48d7ed70e)
 
 
@@ -47,9 +49,6 @@ The Confusion Matrix
 
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/91124b11-dffa-4216-9260-92daacb65128)
 
-
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/78634b74-7362-4081-8fed-0eacea8270b0)
 
 
 
