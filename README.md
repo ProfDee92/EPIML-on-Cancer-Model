@@ -58,6 +58,12 @@ The Confusion Matrix
 
 
 
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/98e95ed5-612a-41a8-a3d4-0fba70a929a6)
+
+
+
+
+
 
 
 
