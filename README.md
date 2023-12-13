@@ -7,6 +7,12 @@ Link to the UCI Wisconsin Breast Cancer Dataset (Dataset):
 https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 
+
+Dataset overview.
+
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ff057987-c1e1-4841-bbbb-2b9c67cd8687)
+
+
 ## Methodology
 The flowchart below represents the methodology followed in this project.
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/3762d724-bae0-42a6-8e2d-f6998c69dcb7)
