@@ -11,17 +11,23 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 The flowchart below represents the methodology followed in this project.
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/f9c11730-891e-4e9a-adf4-7ab84f8e8f10)
 
-Scatterplot of relationship between some of the features.
+Scatterplot showing relationship between some of the features.
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/86d105f5-a56b-474d-8f95-79a48d7ed70e)
 
 
 
 ## Results collected
 Below are table of results showing the performances of the four algorithms when implemented on both Knime and Scikit-Learn. 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/3f421e90-38f7-41b6-8fb6-fc0f82203baf)
+
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/de7a7e61-a4e6-4880-bf46-acb06c9c07fd)
 
 
+Confusion Matrix
 ![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/999c40de-b78c-4222-9bb0-8e3bda7f71d9)
+
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/1cbcd659-b90b-49db-9bbf-fa3c657f189d)
+
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ed0a10a0-4268-4927-8e63-81542b198a97)
 
 
 
