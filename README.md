@@ -51,17 +51,11 @@ The Confusion Matrix
 
 
 ## Visualization of algorithm performances assessed
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/c289f523-c609-4141-87db-d80122fbd034)
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/91124b11-dffa-4216-9260-92daacb65128)
-
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/4c05715f-c15d-4da5-a3ca-f4c9a7fa3163)
 
 
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/98e95ed5-612a-41a8-a3d4-0fba70a929a6)
-
-
-
+![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/022f3636-6e34-444c-9dbd-dc34a2347f01)
 
 
 
