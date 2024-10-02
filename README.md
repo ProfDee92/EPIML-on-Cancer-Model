@@ -38,10 +38,6 @@ Scatterplot showing relationship between some of the features.
 ## Results collected
 Below are table of results showing the performances of the four algorithms when implemented on both Knime and Scikit-Learn. 
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/a1c3aa15-e88f-405c-a847-cc76f602563a)
-
-
-
 ![image](https://github.com/user-attachments/assets/30966cca-154f-4faa-ad34-b48ed2e9b183)
 
 
@@ -52,11 +48,6 @@ Below are table of results showing the performances of the four algorithms when 
 
 The Confusion Matrix
 
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/1cbcd659-b90b-49db-9bbf-fa3c657f189d)
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/ed0a10a0-4268-4927-8e63-81542b198a97)
-
-
 ![image](https://github.com/user-attachments/assets/3087526c-3e2d-42cc-a98e-d20b1997d693)
 
 
@@ -64,13 +55,6 @@ The Confusion Matrix
 
 
 ## Visualization of algorithm performances assessed
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/4c05715f-c15d-4da5-a3ca-f4c9a7fa3163)
-
-
-![image](https://github.com/ProfDee92/Cancer-3IPMLM/assets/103885055/022f3636-6e34-444c-9dbd-dc34a2347f01)
-
-
 
 ![image](https://github.com/user-attachments/assets/01792989-ed30-44ff-b417-4cdceaf9f91d)
 
